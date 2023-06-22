@@ -19,7 +19,7 @@ const Projects = () => {
         <Project src={cryptopriceapp} title="Crypto Price App" tools="JavaScript, React, CSS" description="A responsive Crypto Price App where users can search for coins and their information. The app utilizes Axios for real-time data retrieval of 100 coins from the CoinStats API." />
         <Project src={cryptopriceapp} title="Crypto Price App" tools="JavaScript, React, CSS" description="A responsive Crypto Price App where users can search for coins and their information. The app utilizes Axios for real-time data retrieval of 100 coins from the CoinStats API." />
         <Project src={cryptopriceapp} title="Crypto Price App" tools="JavaScript, React, CSS" description="A responsive Crypto Price App where users can search for coins and their information. The app utilizes Axios for real-time data retrieval of 100 coins from the CoinStats API." />
-        <Project src={cryptopriceapp} title="Crypto Price App" tools="JavaScript, React, CSS" description="A responsive Crypto Price App where users can search for coins and their information. The app utilizes Axios for real-time data retrieval of 100 coins from the CoinStats API." />
+
       </div>
     </div>
   );
