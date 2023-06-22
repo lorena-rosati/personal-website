@@ -14,7 +14,7 @@ const style= {
 const Contact = () => {
   return (
     <div id = "Contact" className={style.container}>
-            <form action = "https://getform.io/f/709189db-a2a3-466e-a0aa-661b255320ba" method = "POST" className = {style.form}>
+            <form action = "https://getform.io/f/ecf62dd5-557f-4f87-a5b2-37a25af131e3" method = "POST" className = {style.form}>
                 <h2 className = {style.title}>Contact Me!</h2>
                 <div className={style.infocontainer}>
                   <input className = {style.name} type = "text" name = "name" placeholder = "Your Name"></input>
