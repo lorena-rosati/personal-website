@@ -6,7 +6,7 @@ import {MdMail} from "react-icons/md";
 
 const style= {
   container: "bg-cover",
-  about: "py-[15%] px-[30%] items-center justify-center",
+  about: "py-[15%] px-[31%] items-center justify-center",
   intro: "text-3xl",
   namebigdiv: "flex flex-row",
   namediv: "pt-1 pb-7 pr-7 font-semibold",
