@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c25d4fed.css",
-    "main.js": "/static/js/main.d03778ba.js",
-    "static/media/sitebackground.jpg": "/static/media/sitebackground.d695ba156850345d89c5.jpg",
-    "static/media/cryptopriceapp.png": "/static/media/cryptopriceapp.e98140288e8e75852638.png",
-    "index.html": "/index.html",
-    "main.c25d4fed.css.map": "/static/css/main.c25d4fed.css.map",
-    "main.d03778ba.js.map": "/static/js/main.d03778ba.js.map"
+    "main.css": "/personal-website/static/css/main.c25d4fed.css",
+    "main.js": "/personal-website/static/js/main.8727a557.js",
+    "static/media/sitebackground.jpg": "/personal-website/static/media/sitebackground.d695ba156850345d89c5.jpg",
+    "static/media/cryptopriceapp.png": "/personal-website/static/media/cryptopriceapp.e98140288e8e75852638.png",
+    "index.html": "/personal-website/index.html",
+    "main.c25d4fed.css.map": "/personal-website/static/css/main.c25d4fed.css.map",
+    "main.8727a557.js.map": "/personal-website/static/js/main.8727a557.js.map"
   },
   "entrypoints": [
     "static/css/main.c25d4fed.css",
-    "static/js/main.d03778ba.js"
+    "static/js/main.8727a557.js"
   ]
 }
