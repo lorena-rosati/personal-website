@@ -17,7 +17,7 @@ const NavBar = () => {
             <div>
                 <ul className={style.tabs}>
                     <Link className={style.tab} to="Projects" spy={true} smooth={true}>Projects</Link>
-                    <a href="https://www.google.ca" className={style.tab} target="_blank">Resume</a>
+                    <a href="https://docs.google.com/document/d/1w0sITv6Hm64dHjv3vwC_0_O-vIUth179MkonK5Otzag/edit?usp=sharing" className={style.tab} target="_blank">Resume</a>
                     <Link className={style.tab} to="Contact" spy={true} smooth={true}>Contact Me</Link>
                 </ul>
             </div>
