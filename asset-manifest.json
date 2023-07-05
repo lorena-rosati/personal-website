@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.320bafc4.css",
-    "main.js": "/personal-website/static/js/main.d3ffb34e.js",
-    "static/media/sitebackground.jpg": "/personal-website/static/media/sitebackground.d695ba156850345d89c5.jpg",
-    "static/media/cryptopriceapp.png": "/personal-website/static/media/cryptopriceapp.b943a5017190264dc48a.png",
-    "static/media/popularitygraph.png": "/personal-website/static/media/popularitygraph.bcd491c5e6a64329e5ad.png",
-    "static/media/bytelife.png": "/personal-website/static/media/bytelife.3fba1f7f3ec1b47c5ea5.png",
-    "static/media/todolist.png": "/personal-website/static/media/todolist.b79187e5de189f99ba0f.png",
-    "index.html": "/personal-website/index.html",
-    "main.320bafc4.css.map": "/personal-website/static/css/main.320bafc4.css.map",
-    "main.d3ffb34e.js.map": "/personal-website/static/js/main.d3ffb34e.js.map"
+    "main.css": "/static/css/main.320bafc4.css",
+    "main.js": "/static/js/main.7755ee7b.js",
+    "static/media/sitebackground.jpg": "/static/media/sitebackground.d695ba156850345d89c5.jpg",
+    "static/media/cryptopriceapp.png": "/static/media/cryptopriceapp.b943a5017190264dc48a.png",
+    "static/media/popularitygraph.png": "/static/media/popularitygraph.bcd491c5e6a64329e5ad.png",
+    "static/media/bytelife.png": "/static/media/bytelife.3fba1f7f3ec1b47c5ea5.png",
+    "static/media/todolist.png": "/static/media/todolist.b79187e5de189f99ba0f.png",
+    "index.html": "/index.html",
+    "main.320bafc4.css.map": "/static/css/main.320bafc4.css.map",
+    "main.7755ee7b.js.map": "/static/js/main.7755ee7b.js.map"
   },
   "entrypoints": [
     "static/css/main.320bafc4.css",
-    "static/js/main.d3ffb34e.js"
+    "static/js/main.7755ee7b.js"
   ]
 }
