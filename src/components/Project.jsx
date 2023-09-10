@@ -1,7 +1,7 @@
 import React from 'react';
 
 const style = {
-  project: "p-5 mr-7 mb-7 bg-white rounded-lg flex flex-col flex-initial h-[96%] hover:shadow-lg",
+  project: "p-5 mr-7 mb-7  rounded-lg flex flex-col flex-initial h-[96%] hover:shadow-lg",
   imgcontainer: "w-[98%]",
   img: "object-cover",
   contentcontainer: "",
