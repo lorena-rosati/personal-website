@@ -24,7 +24,7 @@ const Home = () => {
         <div className={style.about}>
             <h4 className={style.intro}>Hey, my name is...</h4>
             <div className={style.namebigdiv}><div className={style.namediv}><h1 className={style.name}>Lorena Rosati</h1></div><div></div></div>
-            <p className={style.bio}>I'm a second-year Computer Engineering student at the University of Waterloo working as a Computer Programmer at Caribou Contests this summer. Welcome to my personal website! 👋</p>
+            <p className={style.bio}>I'm a second-year Computer Engineering student at the University of Waterloo currently working as a Software Engineer at Sun Life Financial. Welcome to my personal website! 👋</p>
             <div className={style.iconcontainer}>
               <div className={style.linkedin}>
                 <a href="https://www.linkedin.com/in/lorenarosati/" target="_blank"><BsLinkedin size={31} /> </a>
